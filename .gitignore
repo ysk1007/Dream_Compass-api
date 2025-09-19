@@ -9,6 +9,7 @@ target/
 *.ear
 
 ### Spring Boot ###
+application.properties
 application-*.yml
 application-*.properties
 *.iml
